@@ -1,0 +1,88 @@
+#Actual directories we want to ignore go here
+
+#OS junk files
+[Tt]humbs.db
+*.DS_Store
+*.bak*
+
+#Visual Studio files
+*.[Oo]bj
+*.user
+*.aps
+*.pch
+*.vsp
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.[Cc]ache
+*.[Cc]achefile
+*.ilk
+*.log
+*.sbr
+*.sdf
+*.opensdf
+*.unsuccessfulbuild
+ipch/
+obj/
+[Bb]in
+[Dd]ebug*/
+[Rr]elease*/
+Ankh.NoLoad
+
+#Tooling
+_ReSharper*/
+*.resharper
+*.vsdoc
+[Tt]est[Rr]esult*
+
+#Project files
+[Bb]uild/
+
+#Version control files
+.svn
+*.orig
+
+# Office Temp Files
+~$*
+
+#NuGet
+packages/
+
+# Vim swap files
+*.swp
+
+# Asset Content files
+*.wav
+*.mp3
+*.xap
+*.xsb
+*.xwb
+*.xsb
+*.xgs
+
+*.bmp
+*.BMP
+*.psd
+*.png
+*.tga
+*.jpeg
+*.jpg
+*.swatch
+
+*.fbx
+*.FBX
+*.max
+*.MAX
+*.ma
+*.mb
+*.obj
+*.OBJ
+*.mtl
+*.MTL
+
